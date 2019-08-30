@@ -1,4 +1,4 @@
-package com.eakay;
+package net.onebean;
 
 /**
  * @author 0neBean
