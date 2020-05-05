@@ -6,7 +6,7 @@
 
     <groupId>net.onebean</groupId>
     <artifactId>onebean.boot.stater</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <version>1.0.1.RELEASE</version>
     <packaging>pom</packaging>
 
     <name>onebean-boot-stater</name>
@@ -15,7 +15,7 @@
         <java.version>1.8</java.version>
         <child.model.version>1.0.0-SNAPSHOT</child.model.version>
         <api.rest.version>1.0.0-SNAPSHOT</api.rest.version>
-        <core.version>1.0.0-SNAPSHOT</core.version>
+        <core.version>1.0.0.RELEASE</core.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <repo.snapshots.url>https://nexus.onebean.net:8089/repository/maven-snapshots/</repo.snapshots.url>
         <repo.releases.url>https://nexus.onebean.net:8089/repository/maven-releases/</repo.releases.url>
@@ -38,16 +38,16 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/0nebean</url>
-        <connection>git@github.com:0nebean/net.onebean.core.git</connection>
-        <developerConnection>http://kepler.onebean.net/</developerConnection>
+        <url>https://github.com/0nebean/onebean.boot.stater</url>
+        <connection>git@github.com:0nebean/onebean.boot.stater.git</connection>
+        <developerConnection>https://github.com/0nebean</developerConnection>
     </scm>
 
     <developers>
         <developer>
             <name>0neBean</name>
             <email>pein790751571@aliyun.com</email>
-            <url>http://kepler.onebean.net/</url>
+            <url>https://github.com/0nebean</url>
         </developer>
     </developers>
 
