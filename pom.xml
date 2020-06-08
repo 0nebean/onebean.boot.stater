@@ -6,7 +6,7 @@
 
     <groupId>net.onebean</groupId>
     <artifactId>onebean.boot.stater</artifactId>
-    <version>1.0.1.RELEASE</version>
+    <version>1.0.3.RELEASE</version>
     <packaging>pom</packaging>
 
     <name>onebean-boot-stater</name>
@@ -15,7 +15,14 @@
         <java.version>1.8</java.version>
         <child.model.version>1.0.0-SNAPSHOT</child.model.version>
         <api.rest.version>1.0.0-SNAPSHOT</api.rest.version>
-        <core.version>1.0.0.RELEASE</core.version>
+        <redis.version>1.0.0.RELEASE</redis.version>
+        <jsch.version>1.0.0.RELEASE</jsch.version>
+        <cloud.version>1.0.0.RELEASE</cloud.version>
+        <amqp.version>1.0.0.RELEASE</amqp.version>
+        <sms.version>1.0.0.RELEASE</sms.version>
+        <oss.version>1.0.0.RELEASE</oss.version>
+        <mongo.version>1.0.0.RELEASE</mongo.version>
+        <core.version>1.0.2.RELEASE</core.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <repo.snapshots.url>https://nexus.onebean.net:8089/repository/maven-snapshots/</repo.snapshots.url>
         <repo.releases.url>https://nexus.onebean.net:8089/repository/maven-releases/</repo.releases.url>
